@@ -1,0 +1,226 @@
+p {
+    color:gray;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+/* MyContainer */
+.my_container {
+    padding: 0px;
+    margin: 0px;
+    /* background-repeat: repeat-y;
+    background-image: url(images/bg_im.jpg); */
+}
+
+/* Title */
+#title {
+    text-align: center;
+    background-color: #e9edc9;
+    padding: 0.5% 5%;
+    width: 100%;
+    opacity: 0.95;
+}
+
+.brand-name {
+    color: #e07a5f;
+    font-size: 2.5rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.sologan {
+    margin-top: 0;
+    padding-top: 0;
+    color: #d4a373;
+}
+/* Book list */
+/* .card-body {
+    
+    width: 400px;
+} */
+
+/* .card {
+    width: 1 rem;
+} */
+
+.card:hover{
+    /* transform: scale(1.05); */
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+#book-list {
+    background-color: #f0efeb;
+}
+
+.row {
+    width: 100%;
+}
+
+.book-item {
+    margin: 5% 10%;
+}
+
+.book-img {
+    width: 210px;
+    height: 297px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 14px;
+}
+
+/* .book-info {
+    margin: 0% 5%;
+} */
+
+/* Homepage About */
+#btn-home {
+    position: fixed;
+    bottom: 20px;
+    right: 0px;
+    transform: rotate(270deg);
+}
+
+#btn-about {
+    position: fixed;
+    bottom: 100px;
+    right: 0px;
+    transform: rotate(270deg);
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    background-color: hsl(212, 100%, 65%, 90%);
+    padding: 2% 5%;
+}
+
+
+/* Test page */
+
+/* video {
+  object-fit: cover;
+  width: device-width; */
+  /* height: 100vh; */
+  /* position: fixed; */
+  /* top: 0; */
+  /* left: 0; */
+/* } */
+/* .viewport-header {
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } */
+
+
+  #bg_im {
+    object-fit: cover;
+    /* padding: 0; */
+    /* display: block; */
+    /* margin: 0 auto; */
+    height: 100%;
+    width: 100%;
+    /* position: fixed; */
+    opacity: 0.9;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    
+    ;
+
+    /* background-repeat: no-repeat;
+    background-attachment: fixed; */
+  }
+
+  .card-columns {
+      /* position: fixed;
+      top: 150px;
+      left: 0px; */
+
+      /* padding: 3%, 3%, 3%, 0%; */
+      margin-top: 1%;
+      margin-right: 1%;
+      margin-left: 1%;
+  }
+
+  .card {
+    background-color: #f8f9fa;
+    /* opacity: 0.95%; */
+  }
+
+  .card-title {
+      color: #d4a373;
+  }
+
+  .book-title {
+    color: #d4a373;
+  }
+
+
+
+.link_bg:hover {
+    color: rgb(204, 204, 204);
+}
+
+
+
+/* End */
+#enter {
+    padding: 0.9%;
+    text-align: center;
+
+}
+
+.btn_enter {
+    background-color:beige;
+    color:rgb(65, 65, 65);
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+.btn_enter:hover {
+    color: black;
+}
+
+.link_bg{
+    position: absolute;
+    /* bottom: 20px; */
+    /* display: inline; */
+    margin-right: 10px;
+    color: rgb(204, 204, 204);
+}
+
+@media only screen and (max-width: 600px) {
+
+    #bg_im {
+        /* padding: 0; */
+        /* display: block; */
+        /* margin: 0 auto; */
+        /* height: 100%; */
+        /* width: 100%; */
+        /* position: fixed; */
+        opacity: 0.9;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+        scale: 5;
+        background-repeat: repeat-y;
+    }
+    
+}
+
+
+
