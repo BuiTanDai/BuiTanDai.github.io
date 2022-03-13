@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="card book-item">
-                        <a class="text-decoration-none" href="posts/note.html">
+                        <a class="text-decoration-none" href="posts/Loi_khuyen_thanh_nien.html">
                             <div class="card-body">
                                 <img class="book-img" src="images/bookitem.jpg" alt="">
                                 <div class="book-info">

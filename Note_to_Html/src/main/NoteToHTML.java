@@ -137,14 +137,14 @@ public class NoteToHTML {
 		}
 		contentOfHTML += endOfHTML;
 		
-//		contentOfHTML = contentOfHTML.replace("==========", "<div class=\"separator\">==========</div>");
+		contentOfHTML = contentOfHTML.replace("==========", "<div class=\"separator\">==========</div>");
 	}
 
 	private static void addPageToHTML(String page) {
-		contentOfHTML += "<div class=\"page\">\r\n"
-				+ "        <p>"
+		contentOfHTML += " <div class=\"page\">\r\n"
+				+ "        <div class=\"content\">"
 				+ page
-				+ "</p>\r\n"
+				+ "</div>\r\n"
 				+ "      </div>";
 		
 		System.out.println("-----------------------Begin of page content--------------------\n" + page);

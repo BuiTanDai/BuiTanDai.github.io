@@ -4,23 +4,26 @@
   transition: opacity 0.4s 0.2s;
 }
 
-p{
+/* p{
   margin-top: 3vw;
   margin-left: 2vw;
   margin-right: 2vw;
   text-align: justify;
   font-size: 1.5em;
   color: #2766ee;
-}
+} */
 
 .separator {
   text-align: center;
-  font-size: 1.5em;
+  margin-top: 1vw;
+  /* margin-left: 2vw;
+  margin-right: 2vw; */
+  font-size: 1em;
   color: #2766ee;
 }
 
-/* .page {
-  width: 30vw;
+.content {
+  /* width: 30vw;
   height: 44vw;
   background-color: #111111;
   float: left;
@@ -30,8 +33,14 @@ p{
   background-color: #1d1f20;
   color: #1d1f20;
   font: 16px/1.25 'Crimson Text', sans-serif;
-  margin: 0;
-} */
+  margin: 0; */
+  margin-top: 3vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  text-align: justify;
+  font-size: 1.3em;
+  color: #2766ee;
+}
 /* .page:nth-child(even) {
   clear: both;
 } */
