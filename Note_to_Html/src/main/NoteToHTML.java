@@ -109,9 +109,10 @@ public class NoteToHTML {
 			line += data.charAt(i);
 			
 			// signal of end of line
-			if (line.length() >= 42 || (data.charAt(i) == '\n'))
+			if ((line.length() >= 42 && (data.charAt(i) == ' ')) || (data.charAt(i) == '\n'))
 			{
-				page += line;
+				page += (data.charAt(i) == '\n') ? line + "<br>" : line;
+
 				++currentLineOfPage;
 				
 				// signal of end of page
@@ -136,6 +137,7 @@ public class NoteToHTML {
 		}
 		contentOfHTML += endOfHTML;
 		
+//		contentOfHTML = contentOfHTML.replace("==========", "<div class=\"separator\">==========</div>");
 	}
 
 	private static void addPageToHTML(String page) {
