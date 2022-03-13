@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - Pure JavaScript Book Effect</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-
-<body>
-  <!-- partial:index.partial.html -->
-  <!-- <link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel" rel="stylesheet"> -->
-  <div class="book">
-    <div id="pages" class="pages">
-      <div class="page">
-        <div class="notes-for">
-          <h1>Notes</h1>
-          <h4>for</h4>
-          
-        </div>
-        <div class="coverbook_img">
-          <img class="img" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570010792l/52203834.jpg" alt="">
-        </div>
-       
-      </div><div class="page">
-        <p>  LoiKhuyenThanhNien  
+  LoiKhuyenThanhNien  
 - Your Highlight on Location 2863-2865 | Added on Friday, March 26, 2021 8:01:49 PM
 
 cho nên ông mới giảng giải cho tôi rằng không nên đọc “ngấu nghiến” một cuốn sách. Có những đoạn tả cảnh đáng cho ta ngừng lại rồi tưởng tượng cảnh tác giả đã vẽ. Có những ý cần suy nghĩ.
@@ -35,18 +9,14 @@ LoiKhuyenThanhNien
 “Nghệ thuật đọc sách là nghệ thuật suy tư nhờ chút dắt dẫn của tác giả”.
 ==========
 LoiKhuyenThanhNien  
-- Your Highlight on Location 2940-2945 | A</p>
-      </div><div class="page">
-        <p>dded on Friday, March 26, 2021 8:04:04 PM
+- Your Highlight on Location 2940-2945 | Added on Friday, March 26, 2021 8:04:04 PM
 
 Em chép thêm vào tất cả những suy tư của em trong khi đọc sách và có thể cả những cảm tưởng hằng ngày nữa. Cuốn sổ đó sẽ là bạn thân của em. Thỉnh thoảng em vui thích mở ra đọc. Nó giúp em dễ nhớ, nhớ lâu, nhắc lại cho em những cảm xúc của một thời. Sau này đọc lại, em sẽ thấy có sự tiến triển của tâm hồn em. Đó cũng là một cách để tự hiểu biết mình.
 ==========
 LoiKhuyenThanhNien  
 - Your Highlight on Location 3059-3066 | Added on Friday, March 26, 2021 8:09:45 PM
 
-Ở đâu đâu những nét chính cũng giống nhau. Mới đầu một dân tộc còn nhỏ, siêng năng, thấy cần phải phát triển. Dân tộc đó hoá r</p>
-      </div><div class="page">
-        <p>a trọng thể thao, sống đời khắc khổ, thượng võ, hiếu chiến. Rồi thắng trận, chiếm được đất mới, do đó sung túc hơn, ham vui sống, thích nghệ thuật. Tới lúc này, đức thượng võ suy giảm, người ta hoá ra làm biếng, ham khoái lạc êm đềm. Người ta bắt bọn nô lệ và bọn dân thuộc địa làm việc để cung phụng người ta. Cái lý tưởng, cái tinh thần đoàn kết thời đầu nhường chỗ cho những tham vọng cá nhân, những cuộc tranh luận, rồi tới sự bất hoà và cách mạng nội bộ.
+Ở đâu đâu những nét chính cũng giống nhau. Mới đầu một dân tộc còn nhỏ, siêng năng, thấy cần phải phát triển. Dân tộc đó hoá ra trọng thể thao, sống đời khắc khổ, thượng võ, hiếu chiến. Rồi thắng trận, chiếm được đất mới, do đó sung túc hơn, ham vui sống, thích nghệ thuật. Tới lúc này, đức thượng võ suy giảm, người ta hoá ra làm biếng, ham khoái lạc êm đềm. Người ta bắt bọn nô lệ và bọn dân thuộc địa làm việc để cung phụng người ta. Cái lý tưởng, cái tinh thần đoàn kết thời đầu nhường chỗ cho những tham vọng cá nhân, những cuộc tranh luận, rồi tới sự bất hoà và cách mạng nội bộ.
 ==========
 LoiKhuyenThanhNien  
 - Your Highlight on Location 3109-3109 | Added on Friday, March 26, 2021 8:14:22 PM
@@ -54,18 +24,14 @@ LoiKhuyenThanhNien
 âm nhạc là nghệ thuật mà hạng người dễ thưởng thức nhất.
 ==========
 LoiKhuyenThanhNien  
-</p>
-      </div><div class="page">
-        <p>- Your Highlight on Location 3427-3430 | Added on Friday, March 26, 2021 8:36:21 PM
+- Your Highlight on Location 3427-3430 | Added on Friday, March 26, 2021 8:36:21 PM
 
 Làm việc bốn chục giờ một tuần thì đủ sống, nhưng muốn tiến lên, muốn vượt lên khỏi hàng ngũ, địa vị của mình thì làm việc bấy nhiêu chưa đủ, còn thiếu nhiều lắm.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3384-3387 | Added on Saturday, March 27, 2021 8:30:20 AM
 
-Bản tính con người trong non hai trăm năm nay, từ khi có cách mạng kỹ thuật đã thay đổi được nhiều không, để cho ta tin rằng trong một trăm năm nữa sẽ thay đổi hẳn được? Hay là trừ được cái tệ này lại phát sinh cái tệ khác? Mà giả sử có trừ được thì không phải chỉ nhờ kỹ thuật – kỹ thuật và kh</p>
-      </div><div class="page">
-        <p>oa học chỉ là một dụng cụ - còn phải nhờ một triết lý, một nhân sinh quan thấm nhuần mọi giới
+Bản tính con người trong non hai trăm năm nay, từ khi có cách mạng kỹ thuật đã thay đổi được nhiều không, để cho ta tin rằng trong một trăm năm nữa sẽ thay đổi hẳn được? Hay là trừ được cái tệ này lại phát sinh cái tệ khác? Mà giả sử có trừ được thì không phải chỉ nhờ kỹ thuật – kỹ thuật và khoa học chỉ là một dụng cụ - còn phải nhờ một triết lý, một nhân sinh quan thấm nhuần mọi giới
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3494-3498 | Added on Saturday, March 27, 2021 9:28:22 AM
@@ -73,17 +39,13 @@ Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 Dĩ nhiên những cuộc tranh luận như vậy chẳng giải quyết được gì, phe nào cũng giữ ý kiến của mình, không bình tâm xét ý kiến đối phương, chỉ tìm cách đả nhau thôi; mà người đọc thì cũng vậy, chỉ chú ý tới những bài hợp với ý mình, đọc chỉ để tìm những lý lẽ khiến cho những ý của mình đã có sẵn được thêm vững. Còn những người không có sẵn chủ trương thì càng đọc càng hoang mang, một số ngả theo phe này, một số ngả
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
-</p>
-      </div><div class="page">
-        <p>- Your Highlight on Location 3494-3499 | Added on Saturday, March 27, 2021 9:28:29 AM
+- Your Highlight on Location 3494-3499 | Added on Saturday, March 27, 2021 9:28:29 AM
 
 Dĩ nhiên những cuộc tranh luận như vậy chẳng giải quyết được gì, phe nào cũng giữ ý kiến của mình, không bình tâm xét ý kiến đối phương, chỉ tìm cách đả nhau thôi; mà người đọc thì cũng vậy, chỉ chú ý tới những bài hợp với ý mình, đọc chỉ để tìm những lý lẽ khiến cho những ý của mình đã có sẵn được thêm vững. Còn những người không có sẵn chủ trương thì càng đọc càng hoang mang, một số ngả theo phe này, một số ngả theo phe kia, và rốt cuộc lịch sử vẫn trôi theo dòng của nó.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3539-3542 | Added on Saturday, March 27, 2021 9:35:36 AM
-</p>
-      </div><div class="page">
-        <p>
+
 “Cái tai hại của chúng ta là có mặc cảm tự ti, tủi rằng cái gì cũng kém người, rồi mù quáng bắt chước người, chỉ mong theo gót được người, không dám có một ý muốn riêng của mình, một quan điểm của mình, một đường lối của mình…”.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
@@ -91,9 +53,7 @@ Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 
 Chúng ta có những vinh dự khác: đào tạo được nhiều công dân, nhiều bậc cha mẹ, nhiều thanh niên tinh thần lành mạnh, sáng suốt, tự cường, tự lập, biết lãnh trách nhiệm, lễ độ, vui sống, hoà hảo với nhau, trọng người cũng như trọng mình. Tôi cho như vậy mới là văn minh –
 ==========
-</p>
-      </div><div class="page">
-        <p>Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
+Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3647-3650 | Added on Saturday, March 27, 2021 9:47:16 AM
 
 Việc đời không như vậy: hễ không đen thì trắng, không cộng sản thì tư bản, không tự do thì độc tài. Những người nhiệt tâm thường cực đoan, chê thái độ trung dung là nhu nhược, nhưng trung dung mới là sáng suốt, hưởng cái lợi có thể là ít hơn, nhưng tránh được cái hại. Trung dung thì thường tiến không được mau, nhưng tiến mau quá thì vấp váp, thất bại, có thể gây nhiều bất mãn, rồi phải đàn áp, thanh trừng.
@@ -101,9 +61,7 @@ Việc đời không như vậy: hễ không đen thì trắng, không cộng s�
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3700-3701 | Added on Saturday, March 27, 2021 9:59:21 AM
 
-</p>
-      </div><div class="page">
-        <p>Trong những giá trị cổ, có những giá trị căn bản, chung cho nhân loại như nhân, trí, dũng (hay bi, trí, dũng), hễ còn loài người thì còn được tôn trọng.
+Trong những giá trị cổ, có những giá trị căn bản, chung cho nhân loại như nhân, trí, dũng (hay bi, trí, dũng), hễ còn loài người thì còn được tôn trọng.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3710-3713 | Added on Saturday, March 27, 2021 10:03:48 AM
@@ -111,9 +69,7 @@ Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 Rồi những đức như lễ, nghĩa, liêm, sỉ, nhất là tín, mà chỉ có Khổng giáo là đặc biệt coi trọng. Có bao nhiêu chính khách phương Tây biết giữ sự thành tín ngay với quốc dân, chứ đừng nói với ngoại quốc nữa? Chúng ta đừng nhiễm cái thói gian xảo quỷ quyệt của họ.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
-- Your Highlight on Location 3761-3761 | Added on Saturday, March 27, 2021 10:10:55 </p>
-      </div><div class="page">
-        <p>AM
+- Your Highlight on Location 3761-3761 | Added on Saturday, March 27, 2021 10:10:55 AM
 
 Phải sửa đổi lại hiến pháp sao cho chỉ người nào đã có thành tích giúp dân mới đại diện cho dân. Tổ
 ==========
@@ -125,9 +81,7 @@ Phải sửa đổi lại hiến pháp sao cho chỉ người nào đã có thà
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3761-3761 | Added on Saturday, March 27, 2021 10:11:20 AM
 
-Phải sửa đổi lại hiến pháp sao cho chỉ ngư</p>
-      </div><div class="page">
-        <p>ời nào đã có thành tích giúp dân mới đại diện cho
+Phải sửa đổi lại hiến pháp sao cho chỉ người nào đã có thành tích giúp dân mới đại diện cho
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3761-3761 | Added on Saturday, March 27, 2021 10:11:27 AM
@@ -139,9 +93,7 @@ Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 
 Phải sửa đổi lại hiến pháp sao cho chỉ người nào đã có thành tích giúp dân mới đại diện cho
 ==========
-</p>
-      </div><div class="page">
-        <p>Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
+Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3761-3761 | Added on Saturday, March 27, 2021 10:11:59 AM
 
 Phải sửa đổi lại hiến pháp sao cho chỉ người nào đã có thành tích giúp dân mới đại diện cho dân.
@@ -151,9 +103,7 @@ Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 
 chưa cũ đã liệng đi, đồ dùng hư thì không sửa, mua thứ mới, có xe kiểu 1971 thì không dùng kiểu 1970 nữa, thái độ đó tuy làm cho sự sản xuất, kỹ nghệ mau tiến nhưng cũng dễ làm hư con người, sinh ra quý trọng đồng tiền, ganh đua về vật chất.
 ==========
-</p>
-      </div><div class="page">
-        <p>Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
+Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3787-3791 | Added on Saturday, March 27, 2021 10:16:52 AM
 
 Tuyển lựa một số giá trị cũ để duy trì, nhưng đồng thời cũng phải biết tôn trọng một giá trị mới: đức tin ở sự tiến bộ, tinh thần học hỏi làm việc tích cực và có phương pháp, óc phán đoán sáng suốt và khách quan, nhìn xa hiểu rộng, đức công tâm, đoàn kết, không thì không thể tiến được, mà càng mau lụi bại. Chúng ta đã có hai tấm gương tầy liếp rồi đấy.
@@ -161,9 +111,7 @@ Tuyển lựa một số giá trị cũ để duy trì, nhưng đồng thời c�
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3889-3890 | Added on Saturday, March 27, 2021 10:24:42 AM
 
-Có những ông già bà cả nhịn ăn nhịn uống đ</p>
-      </div><div class="page">
-        <p>ể tiếp tế áo quần, thực phẩm cho con cháu; có những con cháu vượt mọi nỗi hiểm nguy tới tánh mạng đã lẻn về thăm cha mẹ, ông bà trong một đêm.
+Có những ông già bà cả nhịn ăn nhịn uống để tiếp tế áo quần, thực phẩm cho con cháu; có những con cháu vượt mọi nỗi hiểm nguy tới tánh mạng đã lẻn về thăm cha mẹ, ông bà trong một đêm.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3924-3925 | Added on Saturday, March 27, 2021 10:27:02 AM
@@ -173,22 +121,9 @@ Khắp thế giới không có dân tộc nào cực khổ như dân tộc ta, h
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3924-3926 | Added on Saturday, March 27, 2021 10:27:15 AM
 
-Khắp thế giới không có dân tộc nào cực khổ như dân tộc ta, hi sinh nhiều cho con chá</p>
-      </div><div class="page">
-        <p>u như các cụ già của chúng ta. Điều đó các bạn cứ nhìn chung quanh, có khi ngay trong gia đình các bạn nữa thì sẽ thấy.
+Khắp thế giới không có dân tộc nào cực khổ như dân tộc ta, hi sinh nhiều cho con cháu như các cụ già của chúng ta. Điều đó các bạn cứ nhìn chung quanh, có khi ngay trong gia đình các bạn nữa thì sẽ thấy.
 ==========
 Vài Lời Ngỏ Với Bạn Trẻ (Nguyễn Hiến Lê)
 - Your Highlight on Location 3942-3945 | Added on Saturday, March 27, 2021 10:29:06 AM
 
-Sau cùng, điều thứ ba tôi muốn kể với các bạn là khi toàn dân cùng nghèo thì người ta càng thương yêu nhau, càng đoàn kết. Chỉ trong một xã hội kẻ giàu người nghèo cách biệt xa nhau quá thì mới có sự xung đột nhau. Luôn luôn thời nào cũng vậy, quyền lợi là nguyên nhân của sự chia rẽ.</p>
-      </div> <div class="page">
-        The end
-      </div>
-    </div>
-  </div>
-  <!-- partial -->
-  <script src="./script.js"></script>
-
-</body>
-
-</html>
+Sau cùng, điều thứ ba tôi muốn kể với các bạn là khi toàn dân cùng nghèo thì người ta càng thương yêu nhau, càng đoàn kết. Chỉ trong một xã hội kẻ giàu người nghèo cách biệt xa nhau quá thì mới có sự xung đột nhau. Luôn luôn thời nào cũng vậy, quyền lợi là nguyên nhân của sự chia rẽ.
